@@ -188,7 +188,11 @@ public final class WelcomeFragment extends BaseRegistrationFragment {
       localNumber = Util.getDeviceNumber(requireContext());
     }
 
-    if (localNumber.isPresent()) {
+    //HACK
+    if (true) {
+      getModel().onNumberDetected(27, 845452053);
+    }
+    else if (localNumber.isPresent()) {
       getModel().onNumberDetected(localNumber.get().getCountryCode(), localNumber.get().getNationalNumber());
     } else {
       Optional<String> simCountryIso = Util.getSimCountryIso(requireContext());
