@@ -15,7 +15,7 @@ import android.view.animation.Interpolator;
 import androidx.annotation.NonNull;
 import androidx.core.view.GestureDetectorCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.animation.AnimationCompleteListener;
 import org.thoughtcrime.securesms.util.views.TouchInterceptingFrameLayout;
 

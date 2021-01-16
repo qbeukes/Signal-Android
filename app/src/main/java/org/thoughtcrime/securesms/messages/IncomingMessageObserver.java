@@ -18,7 +18,7 @@ import androidx.lifecycle.LifecycleOwner;
 import androidx.lifecycle.ProcessLifecycleOwner;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.jobmanager.impl.NetworkConstraint;
 import org.thoughtcrime.securesms.jobs.PushDecryptDrainedJob;

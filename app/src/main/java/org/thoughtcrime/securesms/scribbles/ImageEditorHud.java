@@ -14,7 +14,7 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.TooltipPopup;
 import org.thoughtcrime.securesms.scribbles.widget.ColorPaletteAdapter;
 import org.thoughtcrime.securesms.scribbles.widget.VerticalSlideColorPicker;

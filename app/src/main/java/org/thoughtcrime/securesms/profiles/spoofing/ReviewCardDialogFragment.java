@@ -15,7 +15,7 @@ import androidx.annotation.StringRes;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.FullScreenDialogFragment;
 import org.thoughtcrime.securesms.groups.BadGroupIdException;
 import org.thoughtcrime.securesms.groups.GroupId;

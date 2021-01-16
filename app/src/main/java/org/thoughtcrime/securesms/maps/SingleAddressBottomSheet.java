@@ -14,7 +14,7 @@ import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 import com.google.android.material.bottomsheet.BottomSheetBehavior;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.util.Locale;
 

@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.AvatarImageView;
 import org.thoughtcrime.securesms.mms.GlideRequests;
 import org.thoughtcrime.securesms.recipients.LiveRecipient;

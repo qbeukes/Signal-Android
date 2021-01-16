@@ -2,7 +2,7 @@ package org.thoughtcrime.securesms.net;
 
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

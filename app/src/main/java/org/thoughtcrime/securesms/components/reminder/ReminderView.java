@@ -16,7 +16,7 @@ import androidx.annotation.IdRes;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.util.List;
 

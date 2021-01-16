@@ -20,7 +20,7 @@ import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.mms.DecryptableStreamUriLoader;
 import org.thoughtcrime.securesms.mms.GlideApp;
 import org.thoughtcrime.securesms.sharing.ShareActivity;

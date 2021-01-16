@@ -17,7 +17,7 @@ import com.google.android.material.snackbar.Snackbar;
 
 import org.thoughtcrime.securesms.ContactSelectionListFragment;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.ContactFilterToolbar;
 import org.thoughtcrime.securesms.contacts.ContactsCursorLoader;
 import org.thoughtcrime.securesms.recipients.Recipient;

@@ -9,7 +9,7 @@ import androidx.annotation.Nullable;
 import com.airbnb.lottie.LottieAnimationView;
 
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.megaphone.Megaphones;
 import org.thoughtcrime.securesms.profiles.ProfileName;

@@ -11,7 +11,7 @@ import androidx.navigation.NavGraph;
 import androidx.navigation.Navigation;
 
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.conversation.ConversationIntents;
 import org.thoughtcrime.securesms.groups.ui.managegroup.dialogs.GroupInviteSentDialog;
 import org.thoughtcrime.securesms.recipients.Recipient;

@@ -21,7 +21,7 @@ import androidx.fragment.app.Fragment;
 
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.imageeditor.Bounds;
 import org.thoughtcrime.securesms.imageeditor.ColorableRenderer;

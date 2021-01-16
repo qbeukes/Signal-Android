@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.ServiceUtil;
 import org.whispersystems.libsignal.util.guava.Function;
 import org.whispersystems.libsignal.util.guava.Optional;

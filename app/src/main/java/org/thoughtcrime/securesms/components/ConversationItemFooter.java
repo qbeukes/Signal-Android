@@ -21,7 +21,7 @@ import com.airbnb.lottie.model.KeyPath;
 
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.thoughtcrime.securesms.ApplicationContext;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.DatabaseFactory;
 import org.thoughtcrime.securesms.database.model.MessageRecord;
 import org.thoughtcrime.securesms.database.model.MmsMessageRecord;

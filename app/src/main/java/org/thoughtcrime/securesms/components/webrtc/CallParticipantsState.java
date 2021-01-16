@@ -9,7 +9,7 @@ import com.annimon.stream.ComparatorCompat;
 import com.annimon.stream.OptionalLong;
 import com.annimon.stream.Stream;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.events.CallParticipant;
 import org.thoughtcrime.securesms.events.WebRtcViewModel;
 import org.thoughtcrime.securesms.ringrtc.CameraState;

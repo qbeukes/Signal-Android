@@ -23,7 +23,7 @@ import com.annimon.stream.Stream;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
 import org.thoughtcrime.securesms.ClearAvatarPromptActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.permissions.Permissions;
 import org.thoughtcrime.securesms.util.ThemeUtil;
 

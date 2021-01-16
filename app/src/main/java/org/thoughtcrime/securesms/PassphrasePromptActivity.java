@@ -57,6 +57,7 @@ import org.thoughtcrime.securesms.crypto.InvalidPassphraseException;
 import org.thoughtcrime.securesms.crypto.MasterSecret;
 import org.thoughtcrime.securesms.crypto.MasterSecretUtil;
 import org.thoughtcrime.securesms.logsubmit.SubmitDebugLogActivity;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.DynamicIntroTheme;
 import org.thoughtcrime.securesms.util.DynamicLanguage;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;

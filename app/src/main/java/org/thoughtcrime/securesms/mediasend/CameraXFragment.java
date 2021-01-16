@@ -37,7 +37,7 @@ import com.bumptech.glide.util.Executors;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.TooltipPopup;
 import org.thoughtcrime.securesms.mediasend.camerax.CameraXFlashToggleView;
 import org.thoughtcrime.securesms.mediasend.camerax.CameraXUtil;

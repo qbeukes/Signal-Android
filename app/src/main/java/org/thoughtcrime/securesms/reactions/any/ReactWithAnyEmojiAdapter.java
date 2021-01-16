@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.EmojiKeyboardProvider;
 import org.thoughtcrime.securesms.components.emoji.EmojiPageView;
 import org.thoughtcrime.securesms.components.emoji.EmojiPageViewGridAdapter;

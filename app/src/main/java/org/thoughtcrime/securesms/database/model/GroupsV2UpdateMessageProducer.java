@@ -19,7 +19,7 @@ import org.signal.storageservice.protos.groups.local.DecryptedModifyMemberRole;
 import org.signal.storageservice.protos.groups.local.DecryptedPendingMember;
 import org.signal.storageservice.protos.groups.local.DecryptedPendingMemberRemoval;
 import org.signal.storageservice.protos.groups.local.DecryptedRequestingMember;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.groups.GV2AccessLevelUtil;
 import org.thoughtcrime.securesms.util.ExpirationUtil;
 import org.thoughtcrime.securesms.util.StringUtil;

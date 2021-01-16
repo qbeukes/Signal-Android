@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.widget.AppCompatImageButton;
 import androidx.core.content.ContextCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.stickers.StickerKeyboardProvider;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;
 

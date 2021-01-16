@@ -32,7 +32,7 @@ import org.thoughtcrime.securesms.AvatarPreviewActivity;
 import org.thoughtcrime.securesms.LoggingFragment;
 import org.thoughtcrime.securesms.MediaPreviewActivity;
 import org.thoughtcrime.securesms.MuteDialog;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.color.MaterialColor;
 import org.thoughtcrime.securesms.color.MaterialColors;
 import org.thoughtcrime.securesms.components.AvatarImageView;

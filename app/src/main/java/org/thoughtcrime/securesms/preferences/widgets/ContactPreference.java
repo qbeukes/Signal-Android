@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class ContactPreference extends Preference {
 

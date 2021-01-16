@@ -15,7 +15,7 @@ import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.ui.PlayerNotificationManager;
 
 import org.signal.core.util.concurrent.SignalExecutors;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.color.MaterialColor;
 import org.thoughtcrime.securesms.contacts.avatars.ContactColors;
 import org.thoughtcrime.securesms.conversation.ConversationIntents;

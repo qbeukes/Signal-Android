@@ -30,7 +30,7 @@ import com.google.android.gms.common.GoogleApiAvailability;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.PlayServicesProblemActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.gcm.FcmUtil;
 import org.thoughtcrime.securesms.jobmanager.Data;

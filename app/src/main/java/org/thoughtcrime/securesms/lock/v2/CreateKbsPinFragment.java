@@ -12,7 +12,7 @@ import androidx.core.view.ViewCompat;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.navigation.Navigation;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.SpanUtil;
 
 public class CreateKbsPinFragment extends BaseKbsPinFragment<CreateKbsPinViewModel> {

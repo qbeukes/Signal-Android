@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 import org.greenrobot.eventbus.EventBus;
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.components.TypingStatusRepository;
 import org.thoughtcrime.securesms.components.TypingStatusSender;
 import org.thoughtcrime.securesms.crypto.storage.SignalProtocolStoreImpl;

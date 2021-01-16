@@ -13,7 +13,7 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;
 
 @SuppressLint("BatteryLife")

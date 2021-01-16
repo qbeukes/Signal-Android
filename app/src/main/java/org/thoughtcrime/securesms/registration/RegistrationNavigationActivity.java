@@ -16,7 +16,7 @@ import com.google.android.gms.common.api.Status;
 
 import org.greenrobot.eventbus.EventBus;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.service.VerificationCodeParser;
 import org.whispersystems.libsignal.util.guava.Optional;
 

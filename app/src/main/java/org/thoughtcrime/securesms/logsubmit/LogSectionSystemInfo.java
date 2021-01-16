@@ -13,7 +13,7 @@ import androidx.annotation.NonNull;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.util.AppSignatureUtil;
 import org.thoughtcrime.securesms.util.ByteUnit;
 import org.thoughtcrime.securesms.util.CensorshipUtil;

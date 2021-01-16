@@ -7,7 +7,7 @@ import android.net.Uri;
 
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 
 public final class PlayStoreUtil {
 

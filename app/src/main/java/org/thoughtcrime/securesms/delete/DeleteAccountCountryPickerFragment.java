@@ -15,7 +15,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.text.AfterTextChanged;
 
 public class DeleteAccountCountryPickerFragment extends DialogFragment {

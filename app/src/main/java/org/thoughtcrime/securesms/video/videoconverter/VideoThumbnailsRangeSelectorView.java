@@ -18,7 +18,7 @@ import androidx.annotation.RequiresApi;
 import androidx.vectordrawable.graphics.drawable.VectorDrawableCompat;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.MemoryUnitFormat;
 
 import java.util.Locale;

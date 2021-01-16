@@ -15,7 +15,7 @@ import com.annimon.stream.Stream;
 
 import org.thoughtcrime.securesms.ContactSelectionActivity;
 import org.thoughtcrime.securesms.ContactSelectionListFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contacts.ContactsCursorLoader;
 import org.thoughtcrime.securesms.groups.ui.addtogroup.AddToGroupViewModel.Event;
 import org.thoughtcrime.securesms.recipients.RecipientId;

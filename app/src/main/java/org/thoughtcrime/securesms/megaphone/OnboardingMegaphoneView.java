@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.InviteActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.conversationlist.ConversationListFragment;
 import org.thoughtcrime.securesms.groups.ui.creategroup.CreateGroupActivity;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;

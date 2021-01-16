@@ -7,6 +7,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
+import org.thoughtcrime.securesms.myceli.R;
+
 import java.util.concurrent.TimeUnit;
 
 public class MuteDialog extends AlertDialog {

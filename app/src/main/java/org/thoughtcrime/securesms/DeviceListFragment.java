@@ -27,6 +27,7 @@ import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.database.loaders.DeviceListLoader;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.devicelist.Device;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;
 import org.thoughtcrime.securesms.util.task.ProgressDialogAsyncTask;
 import org.whispersystems.signalservice.api.SignalServiceAccountManager;

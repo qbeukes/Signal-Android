@@ -7,7 +7,7 @@ import androidx.core.content.ContextCompat;
 
 import com.makeramen.roundedimageview.RoundedDrawable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class TransparentContactPhoto implements FallbackContactPhoto {
 

@@ -8,7 +8,7 @@ import com.annimon.stream.Stream;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 
 import java.io.IOException;
 import java.util.Objects;

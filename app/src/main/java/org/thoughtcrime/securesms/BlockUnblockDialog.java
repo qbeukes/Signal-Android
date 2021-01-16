@@ -10,6 +10,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.lifecycle.Lifecycle;
 
 import org.thoughtcrime.securesms.database.DatabaseFactory;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.recipients.Recipient;
 import org.thoughtcrime.securesms.util.concurrent.SimpleTask;
 

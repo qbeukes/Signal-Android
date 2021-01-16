@@ -23,7 +23,7 @@ import android.net.Uri;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.attachments.Attachment;
 import org.thoughtcrime.securesms.attachments.UriAttachment;
 import org.thoughtcrime.securesms.database.AttachmentDatabase;

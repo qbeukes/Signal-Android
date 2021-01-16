@@ -10,7 +10,7 @@ import androidx.annotation.RequiresApi;
 import androidx.preference.ListPreference;
 import androidx.preference.PreferenceViewHolder;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class SignalListPreference extends ListPreference {
 

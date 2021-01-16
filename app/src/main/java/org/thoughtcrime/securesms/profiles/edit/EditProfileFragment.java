@@ -31,7 +31,7 @@ import org.signal.core.util.EditTextUtil;
 import org.signal.core.util.StreamUtil;
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contacts.avatars.ResourceContactPhoto;
 import org.thoughtcrime.securesms.groups.GroupId;
 import org.thoughtcrime.securesms.mediasend.AvatarSelectionActivity;

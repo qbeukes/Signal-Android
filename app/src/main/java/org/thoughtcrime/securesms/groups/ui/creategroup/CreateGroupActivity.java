@@ -18,7 +18,7 @@ import com.google.android.material.floatingactionbutton.ExtendedFloatingActionBu
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.ContactSelectionActivity;
 import org.thoughtcrime.securesms.ContactSelectionListFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contacts.ContactsCursorLoader;
 import org.thoughtcrime.securesms.contacts.sync.DirectoryHelper;
 import org.thoughtcrime.securesms.database.RecipientDatabase;

@@ -43,7 +43,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.load.resource.bitmap.CenterCrop;
 import com.google.android.material.button.MaterialButton;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.animation.ResizeAnimation;
 import org.thoughtcrime.securesms.components.AccessibleToggleButton;
 import org.thoughtcrime.securesms.contacts.avatars.ProfileContactPhoto;

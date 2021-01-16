@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 
 import androidx.annotation.Nullable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.EmojiTextView;
 import org.thoughtcrime.securesms.recipients.Recipient;
 

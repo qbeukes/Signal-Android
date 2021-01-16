@@ -8,7 +8,7 @@ import android.net.Uri;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 
 /**
  * Starting in API 26, a {@link ContentProvider} needs to be defined for each authority you wish to

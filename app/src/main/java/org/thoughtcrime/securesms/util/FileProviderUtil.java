@@ -8,7 +8,7 @@ import android.os.Build;
 import androidx.annotation.NonNull;
 import androidx.core.content.FileProvider;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 
 import java.io.File;
 

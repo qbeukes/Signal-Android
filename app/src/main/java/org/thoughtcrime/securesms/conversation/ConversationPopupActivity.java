@@ -13,7 +13,7 @@ import android.view.WindowManager;
 import androidx.core.app.ActivityOptionsCompat;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.concurrent.ListenableFuture;
 
 import java.util.concurrent.ExecutionException;

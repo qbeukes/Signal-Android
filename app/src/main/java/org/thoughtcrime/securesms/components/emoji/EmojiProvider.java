@@ -19,7 +19,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.parsing.EmojiDrawInfo;
 import org.thoughtcrime.securesms.components.emoji.parsing.EmojiPageBitmap;
 import org.thoughtcrime.securesms.components.emoji.parsing.EmojiParser;

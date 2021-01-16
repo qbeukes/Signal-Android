@@ -66,6 +66,7 @@ import org.thoughtcrime.securesms.mediapreview.MediaPreviewViewModel;
 import org.thoughtcrime.securesms.mediapreview.MediaRailAdapter;
 import org.thoughtcrime.securesms.mms.GlideApp;
 import org.thoughtcrime.securesms.mms.PartAuthority;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.permissions.Permissions;
 import org.thoughtcrime.securesms.recipients.Recipient;
 import org.thoughtcrime.securesms.recipients.RecipientId;

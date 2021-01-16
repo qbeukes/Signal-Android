@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.annimon.stream.OptionalLong;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.webrtc.CallParticipantsState;
 import org.thoughtcrime.securesms.components.webrtc.WebRtcCallViewModel;
 import org.thoughtcrime.securesms.events.CallParticipant;

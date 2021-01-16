@@ -12,7 +12,7 @@ import org.signal.core.util.ShakeDetector;
 import org.signal.core.util.logging.Log;
 import org.signal.core.util.tracing.Tracer;
 import org.thoughtcrime.securesms.ApplicationContext;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.logsubmit.SubmitDebugLogRepository;
 import org.thoughtcrime.securesms.sharing.ShareIntents;
 import org.thoughtcrime.securesms.util.FeatureFlags;

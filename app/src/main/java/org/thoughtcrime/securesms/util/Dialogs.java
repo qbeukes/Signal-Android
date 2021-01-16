@@ -20,7 +20,7 @@ import android.content.Context;
 
 import androidx.appcompat.app.AlertDialog;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class Dialogs {
   public static void showAlertDialog(Context context, String title, String message) {

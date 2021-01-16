@@ -37,7 +37,7 @@ import com.bumptech.glide.request.transition.Transition;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.mms.DecryptableStreamUriLoader.DecryptableUri;
 import org.thoughtcrime.securesms.mms.GlideApp;
 import org.thoughtcrime.securesms.util.ServiceUtil;

@@ -8,6 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.ExpirationUtil;
 
 import java.util.Arrays;

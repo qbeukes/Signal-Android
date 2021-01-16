@@ -12,7 +12,7 @@ import androidx.core.app.TaskStackBuilder;
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.MainActivity;
 import org.thoughtcrime.securesms.NewConversationActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.DatabaseFactory;
 import org.thoughtcrime.securesms.database.ThreadDatabase;
 import org.thoughtcrime.securesms.jobmanager.Data;

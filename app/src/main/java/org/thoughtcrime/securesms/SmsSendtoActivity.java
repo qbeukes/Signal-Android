@@ -13,6 +13,7 @@ import androidx.annotation.NonNull;
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.conversation.ConversationIntents;
 import org.thoughtcrime.securesms.database.DatabaseFactory;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.recipients.Recipient;
 import org.thoughtcrime.securesms.util.Rfc5724Uri;
 

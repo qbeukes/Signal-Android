@@ -15,7 +15,7 @@ import androidx.core.content.ContextCompat;
 
 import com.annimon.stream.Stream;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.EmojiUtil;
 import org.thoughtcrime.securesms.database.model.ReactionRecord;
 import org.thoughtcrime.securesms.recipients.Recipient;

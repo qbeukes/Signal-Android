@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.giph.model.GiphyImage;
 import org.thoughtcrime.securesms.giph.net.GiphyLoader;
 import org.thoughtcrime.securesms.giph.util.InfiniteScrollListener;

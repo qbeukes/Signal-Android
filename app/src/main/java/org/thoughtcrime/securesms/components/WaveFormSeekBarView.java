@@ -15,7 +15,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.Px;
 import androidx.appcompat.widget.AppCompatSeekBar;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.util.Arrays;
 

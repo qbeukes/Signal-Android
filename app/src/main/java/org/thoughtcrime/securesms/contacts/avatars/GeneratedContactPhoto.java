@@ -14,7 +14,7 @@ import androidx.appcompat.content.res.AppCompatResources;
 
 import com.amulyakhare.textdrawable.TextDrawable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.ContextUtil;
 import org.thoughtcrime.securesms.util.ViewUtil;
 

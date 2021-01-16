@@ -9,7 +9,7 @@ import androidx.preference.Preference;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.ApplicationPreferencesActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.service.WebRtcCallService;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;

@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.conversation.ConversationAdapter.StickyHeaderViewHolder;
 import org.thoughtcrime.securesms.util.StickyHeaderDecoration;
 

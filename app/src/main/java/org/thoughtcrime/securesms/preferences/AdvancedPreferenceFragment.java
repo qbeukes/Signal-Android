@@ -24,8 +24,8 @@ import com.google.firebase.iid.FirebaseInstanceId;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.ApplicationPreferencesActivity;
-import org.thoughtcrime.securesms.BuildConfig;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contacts.ContactAccessor;
 import org.thoughtcrime.securesms.contacts.ContactIdentityManager;
 import org.thoughtcrime.securesms.delete.DeleteAccountFragment;

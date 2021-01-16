@@ -70,6 +70,7 @@ import org.thoughtcrime.securesms.database.IdentityDatabase;
 import org.thoughtcrime.securesms.database.IdentityDatabase.VerifiedStatus;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.jobs.MultiDeviceVerifiedUpdateJob;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.permissions.Permissions;
 import org.thoughtcrime.securesms.qr.QrCode;
 import org.thoughtcrime.securesms.qr.ScanListener;

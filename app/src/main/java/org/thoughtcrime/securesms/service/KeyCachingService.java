@@ -34,10 +34,10 @@ import androidx.core.app.NotificationCompat;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.ApplicationContext;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.DummyActivity;
 import org.thoughtcrime.securesms.MainActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.crypto.InvalidPassphraseException;
 import org.thoughtcrime.securesms.crypto.MasterSecret;
 import org.thoughtcrime.securesms.crypto.MasterSecretUtil;

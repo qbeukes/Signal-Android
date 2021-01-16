@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 import androidx.core.util.Consumer;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.util.List;
 

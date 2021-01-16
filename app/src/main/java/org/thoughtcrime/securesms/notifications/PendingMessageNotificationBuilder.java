@@ -8,7 +8,7 @@ import android.content.Intent;
 import androidx.core.app.NotificationCompat;
 
 import org.thoughtcrime.securesms.MainActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.RecipientDatabase;
 import org.thoughtcrime.securesms.preferences.widgets.NotificationPrivacyPreference;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;

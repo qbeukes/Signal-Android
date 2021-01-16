@@ -21,7 +21,7 @@ import android.text.SpannableString;
 
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.MmsDatabase;
 import org.thoughtcrime.securesms.database.SmsDatabase.Status;
 import org.thoughtcrime.securesms.mms.SlideDeck;

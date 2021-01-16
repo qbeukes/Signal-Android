@@ -19,7 +19,7 @@ import androidx.navigation.fragment.NavHostFragment;
 import com.dd.CircularProgressButton;
 
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contactshare.SimpleTextWatcher;
 import org.thoughtcrime.securesms.recipients.Recipient;
 import org.thoughtcrime.securesms.util.UsernameUtil;

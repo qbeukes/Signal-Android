@@ -18,7 +18,7 @@ import androidx.appcompat.widget.AppCompatTextView;
 import androidx.core.content.ContextCompat;
 import androidx.core.widget.TextViewCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.EmojiProvider.EmojiDrawable;
 import org.thoughtcrime.securesms.components.emoji.parsing.EmojiParser;
 import org.thoughtcrime.securesms.components.mention.MentionAnnotation;

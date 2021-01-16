@@ -5,7 +5,7 @@ import androidx.annotation.Nullable;
 
 import com.annimon.stream.Stream;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.Emoji;
 import org.thoughtcrime.securesms.components.emoji.EmojiPageModel;
 

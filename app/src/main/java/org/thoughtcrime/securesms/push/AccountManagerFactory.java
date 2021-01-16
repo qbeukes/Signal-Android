@@ -8,7 +8,7 @@ import com.google.android.gms.security.ProviderInstaller;
 
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.whispersystems.signalservice.api.SignalServiceAccountManager;
 
 import java.util.UUID;

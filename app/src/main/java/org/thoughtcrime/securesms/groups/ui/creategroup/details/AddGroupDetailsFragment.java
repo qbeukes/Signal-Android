@@ -29,7 +29,7 @@ import com.dd.CircularProgressButton;
 
 import org.signal.core.util.EditTextUtil;
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.groups.ui.GroupMemberListView;
 import org.thoughtcrime.securesms.groups.ui.creategroup.dialogs.NonGv2MemberDialog;
 import org.thoughtcrime.securesms.mediasend.AvatarSelectionActivity;

@@ -29,6 +29,8 @@ import androidx.fragment.app.DialogFragment;
 
 import com.google.android.gms.common.GoogleApiAvailability;
 
+import org.thoughtcrime.securesms.myceli.R;
+
 public class PlayServicesProblemFragment extends DialogFragment {
 
   @Override

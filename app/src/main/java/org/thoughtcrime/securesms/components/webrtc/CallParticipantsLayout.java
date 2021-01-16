@@ -12,7 +12,7 @@ import androidx.cardview.widget.CardView;
 import com.google.android.flexbox.AlignItems;
 import com.google.android.flexbox.FlexboxLayout;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.events.CallParticipant;
 import org.thoughtcrime.securesms.util.Util;
 import org.thoughtcrime.securesms.util.ViewUtil;

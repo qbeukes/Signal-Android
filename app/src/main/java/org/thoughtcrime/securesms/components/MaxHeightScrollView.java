@@ -7,7 +7,7 @@ import android.widget.ScrollView;
 
 import androidx.annotation.Nullable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class MaxHeightScrollView extends ScrollView {
 

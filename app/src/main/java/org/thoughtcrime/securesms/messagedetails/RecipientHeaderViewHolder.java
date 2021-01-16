@@ -5,7 +5,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.DeliveryStatusView;
 
 final class RecipientHeaderViewHolder extends RecyclerView.ViewHolder {

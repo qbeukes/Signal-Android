@@ -11,7 +11,7 @@ import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
 import androidx.core.graphics.drawable.DrawableCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.ContextUtil;
 import org.thoughtcrime.securesms.util.DrawableUtil;
 import org.thoughtcrime.securesms.util.ViewUtil;

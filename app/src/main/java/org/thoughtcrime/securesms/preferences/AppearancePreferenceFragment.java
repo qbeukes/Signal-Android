@@ -7,7 +7,7 @@ import androidx.annotation.Nullable;
 import androidx.preference.ListPreference;
 
 import org.thoughtcrime.securesms.ApplicationPreferencesActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;
 
 import java.util.Arrays;

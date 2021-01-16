@@ -30,7 +30,7 @@ import com.google.android.material.shape.ShapeAppearanceModel;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.emoji.EmojiKeyboardProvider;
 import org.thoughtcrime.securesms.components.emoji.EmojiPageViewGridAdapter;
 import org.thoughtcrime.securesms.database.model.MessageRecord;
@@ -38,7 +38,7 @@ import org.thoughtcrime.securesms.reactions.ReactionsLoader;
 import org.thoughtcrime.securesms.util.ThemeUtil;
 import org.thoughtcrime.securesms.util.ViewUtil;
 
-import static org.thoughtcrime.securesms.R.layout.react_with_any_emoji_tab;
+import static org.thoughtcrime.securesms.myceli.R.layout.react_with_any_emoji_tab;
 
 public final class ReactWithAnyEmojiBottomSheetDialogFragment extends BottomSheetDialogFragment
                                                               implements EmojiKeyboardProvider.EmojiEventListener,

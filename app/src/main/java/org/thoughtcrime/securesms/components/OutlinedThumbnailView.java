@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class OutlinedThumbnailView extends ThumbnailView {
 

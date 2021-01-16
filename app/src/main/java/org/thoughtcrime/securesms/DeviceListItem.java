@@ -7,6 +7,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import org.thoughtcrime.securesms.devicelist.Device;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.DateUtils;
 
 import java.util.Locale;

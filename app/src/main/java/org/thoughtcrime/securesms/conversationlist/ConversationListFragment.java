@@ -75,7 +75,7 @@ import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.MainFragment;
 import org.thoughtcrime.securesms.MainNavigator;
 import org.thoughtcrime.securesms.NewConversationActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.RatingManager;
 import org.thoughtcrime.securesms.components.SearchToolbar;
 import org.thoughtcrime.securesms.components.recyclerview.DeleteItemAnimator;

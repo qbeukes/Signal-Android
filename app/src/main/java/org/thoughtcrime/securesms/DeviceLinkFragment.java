@@ -11,6 +11,8 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
+import org.thoughtcrime.securesms.myceli.R;
+
 public class DeviceLinkFragment extends Fragment implements View.OnClickListener {
 
   private LinearLayout        container;

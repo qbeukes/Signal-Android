@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import org.signal.core.util.logging.Log;
 import org.signal.paging.PagingController;
 import org.thoughtcrime.securesms.BindableConversationListItem;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.conversationlist.model.Conversation;
 import org.thoughtcrime.securesms.mms.GlideRequests;
 import org.thoughtcrime.securesms.util.CachedInflater;

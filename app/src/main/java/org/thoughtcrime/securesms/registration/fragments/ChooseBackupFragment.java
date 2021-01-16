@@ -18,7 +18,7 @@ import androidx.core.text.HtmlCompat;
 import androidx.navigation.Navigation;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.documents.Document;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.util.BackupUtil;

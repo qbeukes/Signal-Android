@@ -27,7 +27,7 @@ import android.os.ParcelFileDescriptor;
 import androidx.annotation.NonNull;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 
 import java.io.File;
 import java.io.FileNotFoundException;

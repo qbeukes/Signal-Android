@@ -5,7 +5,7 @@ import android.content.Context;
 import androidx.annotation.PluralsRes;
 import androidx.annotation.StringRes;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.util.concurrent.TimeUnit;
 

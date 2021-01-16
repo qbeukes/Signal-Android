@@ -49,7 +49,7 @@ import com.google.i18n.phonenumbers.Phonenumber;
 
 import org.signal.core.util.LinkedBlockingLifoQueue;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.components.ComposeText;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.mms.OutgoingLegacyMmsConnection;

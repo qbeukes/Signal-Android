@@ -15,7 +15,7 @@ import androidx.lifecycle.ViewModelProviders;
 import com.airbnb.lottie.LottieAnimationView;
 import com.airbnb.lottie.LottieDrawable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.animation.AnimationCompleteListener;
 import org.thoughtcrime.securesms.animation.AnimationRepeatListener;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;

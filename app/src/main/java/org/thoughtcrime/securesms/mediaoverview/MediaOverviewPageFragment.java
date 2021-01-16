@@ -31,7 +31,7 @@ import com.codewaves.stickyheadergrid.StickyHeaderGridLayoutManager;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.MediaPreviewActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.attachments.DatabaseAttachment;
 import org.thoughtcrime.securesms.components.voice.VoiceNoteMediaController;
 import org.thoughtcrime.securesms.components.voice.VoiceNotePlaybackState;

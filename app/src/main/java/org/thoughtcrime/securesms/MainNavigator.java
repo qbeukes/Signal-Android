@@ -14,6 +14,7 @@ import org.thoughtcrime.securesms.conversationlist.ConversationListArchiveFragme
 import org.thoughtcrime.securesms.conversationlist.ConversationListFragment;
 import org.thoughtcrime.securesms.groups.ui.creategroup.CreateGroupActivity;
 import org.thoughtcrime.securesms.insights.InsightsLauncher;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.recipients.RecipientId;
 
 public class MainNavigator {

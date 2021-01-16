@@ -9,7 +9,7 @@ import androidx.annotation.Nullable;
 import com.annimon.stream.Stream;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.conversationlist.ConversationListFragment;
 import org.thoughtcrime.securesms.database.model.MegaphoneRecord;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;

@@ -19,7 +19,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.ViewModelProviders;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.qr.QrView;
 import org.thoughtcrime.securesms.groups.GroupId;
 import org.thoughtcrime.securesms.providers.BlobProvider;

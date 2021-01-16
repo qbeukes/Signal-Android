@@ -37,7 +37,7 @@ import com.annimon.stream.Stream;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.TransportOption;
 import org.thoughtcrime.securesms.TransportOptions;
 import org.thoughtcrime.securesms.components.ComposeText;

@@ -9,7 +9,7 @@ import com.annimon.stream.Collectors;
 import com.annimon.stream.Stream;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.contacts.sync.DirectoryHelper.DirectoryResult;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.push.IasTrustStore;

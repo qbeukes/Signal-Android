@@ -11,7 +11,7 @@ import androidx.annotation.Nullable;
 
 import com.google.zxing.common.BitMatrix;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.SquareImageView;
 import org.thoughtcrime.securesms.qr.QrCode;
 

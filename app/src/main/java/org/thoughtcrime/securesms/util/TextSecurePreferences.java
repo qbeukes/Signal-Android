@@ -15,7 +15,7 @@ import androidx.core.app.NotificationCompat;
 
 import org.greenrobot.eventbus.EventBus;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.jobmanager.impl.SqlCipherMigrationConstraintObserver;
 import org.thoughtcrime.securesms.keyvalue.SettingsValues;
 import org.thoughtcrime.securesms.lock.RegistrationLockReminders;

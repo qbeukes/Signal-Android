@@ -3,7 +3,7 @@ package org.thoughtcrime.securesms.groups.ui;
 import androidx.annotation.Nullable;
 import androidx.annotation.StringRes;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public final class GroupErrors {
   private GroupErrors() {

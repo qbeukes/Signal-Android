@@ -97,7 +97,7 @@ import org.thoughtcrime.securesms.MainActivity;
 import org.thoughtcrime.securesms.MuteDialog;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
 import org.thoughtcrime.securesms.PromptMmsActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.ShortcutLauncherActivity;
 import org.thoughtcrime.securesms.TransportOption;
 import org.thoughtcrime.securesms.VerifyIdentityActivity;

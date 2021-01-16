@@ -17,7 +17,7 @@ import androidx.lifecycle.ViewModelProviders;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.groups.BadGroupIdException;
 import org.thoughtcrime.securesms.groups.GroupId;
 import org.thoughtcrime.securesms.recipients.ui.sharablegrouplink.GroupLinkBottomSheetDialogFragment;

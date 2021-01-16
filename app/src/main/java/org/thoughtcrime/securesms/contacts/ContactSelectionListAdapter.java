@@ -33,7 +33,7 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.RecyclerViewFastScroller.FastScrollAdapter;
 import org.thoughtcrime.securesms.contacts.ContactSelectionListAdapter.HeaderViewHolder;
 import org.thoughtcrime.securesms.contacts.ContactSelectionListAdapter.ViewHolder;

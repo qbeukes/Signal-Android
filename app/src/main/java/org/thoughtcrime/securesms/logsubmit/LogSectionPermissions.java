@@ -6,7 +6,7 @@ import android.content.pm.PackageManager;
 
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.whispersystems.libsignal.util.Pair;
 
 import java.util.ArrayList;

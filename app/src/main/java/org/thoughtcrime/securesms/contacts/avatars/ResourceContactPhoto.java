@@ -15,7 +15,7 @@ import androidx.appcompat.content.res.AppCompatResources;
 import com.amulyakhare.textdrawable.TextDrawable;
 import com.makeramen.roundedimageview.RoundedDrawable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.ContextUtil;
 
 public class ResourceContactPhoto implements FallbackContactPhoto {

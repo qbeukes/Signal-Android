@@ -16,6 +16,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 
 import org.thoughtcrime.securesms.components.camera.CameraView;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.qr.ScanListener;
 import org.thoughtcrime.securesms.qr.ScanningThread;
 import org.thoughtcrime.securesms.util.ViewUtil;

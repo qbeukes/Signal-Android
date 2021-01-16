@@ -13,7 +13,7 @@ import com.fasterxml.jackson.databind.type.TypeFactory;
 
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.JsonUtils;
 
 import java.io.IOException;

@@ -7,7 +7,7 @@ import androidx.annotation.NonNull;
 import androidx.documentfile.provider.DocumentFile;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.backup.BackupFileIOError;
 import org.thoughtcrime.securesms.backup.BackupPassphrase;
 import org.thoughtcrime.securesms.backup.FullBackupExporter;

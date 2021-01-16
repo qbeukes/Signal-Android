@@ -18,7 +18,7 @@ import com.takisoft.colorpicker.ColorPickerDialog;
 import com.takisoft.colorpicker.ColorPickerDialog.Size;
 import com.takisoft.colorpicker.ColorStateDrawable;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class ColorPickerPreference extends DialogPreference {
 

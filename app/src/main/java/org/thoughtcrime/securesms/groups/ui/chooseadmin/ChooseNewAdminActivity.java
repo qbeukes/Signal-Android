@@ -17,7 +17,7 @@ import com.dd.CircularProgressButton;
 
 import org.thoughtcrime.securesms.MainActivity;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.groups.BadGroupIdException;
 import org.thoughtcrime.securesms.groups.GroupId;
 import org.thoughtcrime.securesms.groups.ui.GroupChangeResult;

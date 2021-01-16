@@ -28,7 +28,7 @@ import androidx.annotation.NonNull;
 
 import com.annimon.stream.Stream;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contacts.RecipientsAdapter;
 import org.thoughtcrime.securesms.contacts.RecipientsEditor;
 import org.thoughtcrime.securesms.recipients.Recipient;

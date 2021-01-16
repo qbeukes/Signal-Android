@@ -20,8 +20,8 @@ import com.annimon.stream.Collectors;
 import com.annimon.stream.Stream;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.contacts.ContactAccessor;
 import org.thoughtcrime.securesms.contacts.ContactsDatabase;
 import org.thoughtcrime.securesms.crypto.SessionUtil;

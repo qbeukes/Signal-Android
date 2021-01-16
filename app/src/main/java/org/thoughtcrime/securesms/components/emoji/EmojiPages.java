@@ -1,6 +1,6 @@
 package org.thoughtcrime.securesms.components.emoji;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.whispersystems.libsignal.util.Pair;
 
 import java.util.Arrays;

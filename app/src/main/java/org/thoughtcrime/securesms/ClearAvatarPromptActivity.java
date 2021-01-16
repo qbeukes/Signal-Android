@@ -8,6 +8,7 @@ import android.view.ContextThemeWrapper;
 import androidx.appcompat.app.AlertDialog;
 
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.DynamicTheme;
 
 public final class ClearAvatarPromptActivity extends Activity {

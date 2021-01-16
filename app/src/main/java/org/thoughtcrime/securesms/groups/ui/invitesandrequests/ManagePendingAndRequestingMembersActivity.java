@@ -15,7 +15,7 @@ import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.groups.GroupId;
 import org.thoughtcrime.securesms.groups.ui.invitesandrequests.invited.PendingMemberInvitesFragment;
 import org.thoughtcrime.securesms.groups.ui.invitesandrequests.requesting.RequestingMembersFragment;

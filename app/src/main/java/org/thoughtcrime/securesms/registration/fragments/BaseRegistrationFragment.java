@@ -22,7 +22,7 @@ import com.dd.CircularProgressButton;
 import org.signal.core.util.TranslationDetection;
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.logsubmit.SubmitDebugLogActivity;
 import org.thoughtcrime.securesms.phonenumbers.PhoneNumberFormatter;
 import org.thoughtcrime.securesms.registration.viewmodel.RegistrationViewModel;

@@ -8,6 +8,8 @@ import android.widget.ListView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.widget.ListPopupWindow;
 
+import org.thoughtcrime.securesms.myceli.R;
+
 import java.util.LinkedList;
 import java.util.List;
 

@@ -6,7 +6,7 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import org.thoughtcrime.securesms.ConfirmIdentityDialog;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.AvatarImageView;
 import org.thoughtcrime.securesms.components.FromTextView;
 import org.thoughtcrime.securesms.util.DateUtils;

@@ -27,7 +27,7 @@ import androidx.core.view.inputmethod.InputConnectionCompat;
 import androidx.core.view.inputmethod.InputContentInfoCompat;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.TransportOption;
 import org.thoughtcrime.securesms.components.emoji.EmojiEditText;
 import org.thoughtcrime.securesms.components.mention.MentionAnnotation;

@@ -10,7 +10,7 @@ import androidx.annotation.ColorRes;
 import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.imageeditor.Bounds;
 import org.thoughtcrime.securesms.imageeditor.Renderer;
 import org.thoughtcrime.securesms.imageeditor.RendererContext;

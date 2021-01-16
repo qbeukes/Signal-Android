@@ -10,7 +10,7 @@ import androidx.annotation.StyleRes;
 import androidx.appcompat.app.AppCompatDelegate;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class DynamicTheme {
 

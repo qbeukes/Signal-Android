@@ -3,7 +3,7 @@ package org.thoughtcrime.securesms.keyvalue;
 import androidx.annotation.NonNull;
 import androidx.annotation.StringRes;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.util.concurrent.TimeUnit;
 

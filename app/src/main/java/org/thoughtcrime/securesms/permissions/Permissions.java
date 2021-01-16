@@ -23,7 +23,7 @@ import androidx.fragment.app.Fragment;
 import com.annimon.stream.Stream;
 import com.annimon.stream.function.Consumer;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.LRUCache;
 import org.thoughtcrime.securesms.util.ServiceUtil;
 

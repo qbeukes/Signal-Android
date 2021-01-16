@@ -8,7 +8,7 @@ import androidx.annotation.PluralsRes;
 import androidx.annotation.StringRes;
 import androidx.recyclerview.widget.ListAdapter;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.adapter.AlwaysChangedDiffUtil;
 
 import java.util.Objects;

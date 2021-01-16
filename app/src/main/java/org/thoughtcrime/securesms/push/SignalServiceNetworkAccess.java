@@ -5,7 +5,7 @@ import android.content.Context;
 
 import androidx.annotation.Nullable;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.net.CustomDns;
 import org.thoughtcrime.securesms.net.DeprecatedClientPreventionInterceptor;

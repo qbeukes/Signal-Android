@@ -15,7 +15,7 @@ import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 import com.google.android.material.appbar.AppBarLayout;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 import java.lang.ref.WeakReference;
 

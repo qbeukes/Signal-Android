@@ -39,7 +39,7 @@ import androidx.lifecycle.Transformations;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.BindableConversationListItem;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.Unbindable;
 import org.thoughtcrime.securesms.components.AlertView;
 import org.thoughtcrime.securesms.components.AvatarImageView;

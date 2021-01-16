@@ -23,7 +23,7 @@ import androidx.appcompat.widget.Toolbar;
 import com.airbnb.lottie.LottieAnimationView;
 
 import org.thoughtcrime.securesms.LoggingFragment;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.pin.PinOptOutDialog;
 import org.thoughtcrime.securesms.registration.RegistrationUtil;

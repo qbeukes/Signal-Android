@@ -11,7 +11,7 @@ import com.annimon.stream.Stream;
 import com.annimon.stream.function.Function;
 import com.google.protobuf.InvalidProtocolBufferException;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.RecipientDatabase.MentionSetting;
 import org.thoughtcrime.securesms.database.model.Mention;
 import org.thoughtcrime.securesms.database.model.MessageRecord;

@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.preferences.MmsPreferencesActivity;
 
 public class PromptMmsActivity extends PassphraseRequiredActivity {

@@ -7,7 +7,7 @@ import android.os.Build.VERSION_CODES;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class SquareFrameLayout extends FrameLayout {
 

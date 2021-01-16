@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import com.annimon.stream.Stream;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 
 import java.util.List;

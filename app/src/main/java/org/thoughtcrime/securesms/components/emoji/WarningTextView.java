@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import androidx.annotation.ColorInt;
 import androidx.appcompat.widget.AppCompatTextView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public final class WarningTextView extends AppCompatTextView {
 

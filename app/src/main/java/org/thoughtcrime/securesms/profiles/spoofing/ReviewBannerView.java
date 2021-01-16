@@ -15,7 +15,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.Px;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.AvatarImageView;
 import org.thoughtcrime.securesms.contacts.avatars.FallbackContactPhoto;
 import org.thoughtcrime.securesms.contacts.avatars.FallbackPhoto20dp;

@@ -6,6 +6,8 @@ import android.view.Window;
 
 import androidx.appcompat.app.AlertDialog;
 
+import org.thoughtcrime.securesms.myceli.R;
+
 public class DeviceProvisioningActivity extends PassphraseRequiredActivity {
 
   @SuppressWarnings("unused")

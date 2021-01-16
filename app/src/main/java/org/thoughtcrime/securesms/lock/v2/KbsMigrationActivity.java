@@ -7,7 +7,7 @@ import androidx.annotation.Nullable;
 
 import org.thoughtcrime.securesms.BaseActivity;
 import org.thoughtcrime.securesms.PassphrasePromptActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.service.KeyCachingService;
 import org.thoughtcrime.securesms.util.DynamicRegistrationTheme;

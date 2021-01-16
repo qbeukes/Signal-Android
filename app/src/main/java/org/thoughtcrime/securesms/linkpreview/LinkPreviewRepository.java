@@ -16,7 +16,7 @@ import org.signal.core.util.logging.Log;
 import org.signal.storageservice.protos.groups.local.DecryptedGroupJoinInfo;
 import org.signal.zkgroup.VerificationFailedException;
 import org.signal.zkgroup.groups.GroupMasterKey;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.attachments.Attachment;
 import org.thoughtcrime.securesms.attachments.UriAttachment;
 import org.thoughtcrime.securesms.database.AttachmentDatabase;

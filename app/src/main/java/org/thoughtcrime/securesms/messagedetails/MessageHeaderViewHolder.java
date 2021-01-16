@@ -13,7 +13,7 @@ import androidx.lifecycle.LifecycleOwner;
 import androidx.recyclerview.widget.RecyclerView;
 
 import org.signal.core.util.concurrent.SignalExecutors;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.conversation.ConversationItem;
 import org.thoughtcrime.securesms.conversation.ConversationMessage;
 import org.thoughtcrime.securesms.database.model.MessageRecord;

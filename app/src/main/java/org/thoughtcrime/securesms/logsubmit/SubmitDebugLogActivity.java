@@ -23,7 +23,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.dd.CircularProgressButton;
 
 import org.thoughtcrime.securesms.BaseActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.DynamicTheme;
 import org.thoughtcrime.securesms.util.LongClickCopySpan;
 import org.thoughtcrime.securesms.util.LongClickMovementMethod;

@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.jobs.UpdateApkJob;
 import org.thoughtcrime.securesms.util.TextSecurePreferences;

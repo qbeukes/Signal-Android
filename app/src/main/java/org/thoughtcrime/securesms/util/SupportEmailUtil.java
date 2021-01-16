@@ -6,8 +6,8 @@ import android.os.Build;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import org.thoughtcrime.securesms.BuildConfig;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 
 import java.util.Locale;

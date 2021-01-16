@@ -19,7 +19,7 @@ import com.annimon.stream.Stream;
 
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.thoughtcrime.securesms.ApplicationPreferencesActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.settings.BaseSettingsAdapter;
 import org.thoughtcrime.securesms.components.settings.BaseSettingsFragment;
 import org.thoughtcrime.securesms.components.settings.CustomizableSingleSelectSetting;

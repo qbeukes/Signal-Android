@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
+import org.thoughtcrime.securesms.myceli.R;
+
 import java.util.List;
 
 public class TransportOptionsAdapter extends BaseAdapter {

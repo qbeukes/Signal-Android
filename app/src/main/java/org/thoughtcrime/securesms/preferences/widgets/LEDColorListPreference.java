@@ -25,7 +25,7 @@ import androidx.annotation.NonNull;
 import androidx.preference.ListPreference;
 import androidx.preference.PreferenceViewHolder;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 /**
  * List preference that disables dependents when set to "none", similar to a CheckBoxPreference.

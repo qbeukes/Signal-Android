@@ -22,7 +22,7 @@ import androidx.lifecycle.ViewModelProviders;
 import com.annimon.stream.Stream;
 
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.color.MaterialColor;
 import org.thoughtcrime.securesms.components.ConversationItemFooter;
 import org.thoughtcrime.securesms.components.emoji.EmojiTextView;

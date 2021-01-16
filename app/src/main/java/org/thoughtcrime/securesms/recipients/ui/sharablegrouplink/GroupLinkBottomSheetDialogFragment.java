@@ -16,7 +16,7 @@ import androidx.fragment.app.FragmentManager;
 
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.groups.GroupId;
 import org.thoughtcrime.securesms.groups.LiveGroup;
 import org.thoughtcrime.securesms.recipients.ui.sharablegrouplink.qr.GroupLinkShareQrDialogFragment;

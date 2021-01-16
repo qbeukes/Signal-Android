@@ -24,7 +24,7 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.annimon.stream.function.Consumer;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.database.RecipientDatabase;
 import org.thoughtcrime.securesms.notifications.NotificationChannels;
 import org.thoughtcrime.securesms.recipients.RecipientId;

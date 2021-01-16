@@ -17,7 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.StringRes;
 import androidx.core.widget.TextViewCompat;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.util.ServiceUtil;
 import org.thoughtcrime.securesms.util.ViewUtil;
 import org.thoughtcrime.securesms.util.views.DarkOverflowToolbar;

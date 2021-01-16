@@ -33,6 +33,7 @@ import androidx.preference.Preference;
 
 import org.thoughtcrime.securesms.help.HelpFragment;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.preferences.AdvancedPreferenceFragment;
 import org.thoughtcrime.securesms.preferences.AppProtectionPreferenceFragment;
 import org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment;

@@ -17,7 +17,6 @@
 package org.thoughtcrime.securesms;
 
 import android.content.Context;
-import android.hardware.SensorManager;
 import android.os.Build;
 
 import androidx.annotation.NonNull;
@@ -33,7 +32,6 @@ import com.google.android.gms.security.ProviderInstaller;
 
 import org.conscrypt.Conscrypt;
 import org.signal.aesgcmprovider.AesGcmProvider;
-import org.signal.core.util.ShakeDetector;
 import org.signal.core.util.concurrent.SignalExecutors;
 import org.signal.core.util.logging.AndroidLogger;
 import org.signal.core.util.logging.Log;
@@ -46,7 +44,6 @@ import org.thoughtcrime.securesms.database.helpers.SQLCipherOpenHelper;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencies;
 import org.thoughtcrime.securesms.dependencies.ApplicationDependencyProvider;
 import org.thoughtcrime.securesms.gcm.FcmJobService;
-import org.thoughtcrime.securesms.jobmanager.JobManager;
 import org.thoughtcrime.securesms.jobs.CreateSignedPreKeyJob;
 import org.thoughtcrime.securesms.jobs.FcmRefreshJob;
 import org.thoughtcrime.securesms.jobs.GroupV1MigrationJob;
@@ -58,6 +55,7 @@ import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.logging.CustomSignalProtocolLogger;
 import org.thoughtcrime.securesms.logging.LogSecretProvider;
 import org.thoughtcrime.securesms.migrations.ApplicationMigrations;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.notifications.NotificationChannels;
 import org.thoughtcrime.securesms.providers.BlobProvider;
 import org.thoughtcrime.securesms.push.SignalServiceNetworkAccess;
@@ -71,7 +69,6 @@ import org.thoughtcrime.securesms.service.LocalBackupListener;
 import org.thoughtcrime.securesms.service.RotateSenderCertificateListener;
 import org.thoughtcrime.securesms.service.RotateSignedPreKeyListener;
 import org.thoughtcrime.securesms.service.UpdateApkRefreshListener;
-import org.thoughtcrime.securesms.shakereport.ShakeToReport;
 import org.thoughtcrime.securesms.storage.StorageSyncHelper;
 import org.thoughtcrime.securesms.util.AppStartup;
 import org.thoughtcrime.securesms.util.DynamicTheme;

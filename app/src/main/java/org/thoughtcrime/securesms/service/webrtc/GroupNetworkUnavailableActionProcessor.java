@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 
 import org.signal.core.util.logging.Log;
 import org.signal.ringrtc.GroupCall;
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.events.WebRtcViewModel;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.ringrtc.RemotePeer;

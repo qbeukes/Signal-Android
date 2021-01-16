@@ -5,7 +5,7 @@ import android.os.Parcel;
 
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.imageeditor.Bounds;
 import org.thoughtcrime.securesms.imageeditor.Renderer;
 import org.thoughtcrime.securesms.imageeditor.RendererContext;

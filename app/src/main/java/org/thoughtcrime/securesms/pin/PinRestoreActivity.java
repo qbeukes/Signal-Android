@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatDelegate;
 
 import org.thoughtcrime.securesms.MainActivity;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.lock.v2.CreateKbsPinActivity;
 
 public final class PinRestoreActivity extends AppCompatActivity {

@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 class WebRtcCallParticipantsPagerAdapter extends ListAdapter<WebRtcCallParticipantsPage, WebRtcCallParticipantsPagerAdapter.ViewHolder> {
 

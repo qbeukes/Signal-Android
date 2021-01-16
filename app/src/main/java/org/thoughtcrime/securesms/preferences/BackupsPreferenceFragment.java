@@ -24,7 +24,7 @@ import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.backup.BackupDialog;
 import org.thoughtcrime.securesms.backup.FullBackupBase;
 import org.thoughtcrime.securesms.database.NoExternalStorageException;

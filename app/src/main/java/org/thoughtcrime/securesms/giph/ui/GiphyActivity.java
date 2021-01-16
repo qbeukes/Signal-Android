@@ -23,7 +23,7 @@ import com.google.android.material.tabs.TabLayout;
 
 import org.signal.core.util.logging.Log;
 import org.thoughtcrime.securesms.PassphraseRequiredActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.providers.BlobProvider;
 import org.thoughtcrime.securesms.util.DynamicDarkToolbarTheme;
 import org.thoughtcrime.securesms.util.DynamicLanguage;

@@ -11,7 +11,7 @@ import android.widget.Toast;
 import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 
 public class LongClickCopySpan extends URLSpan {
   private static final String PREFIX_MAILTO = "mailto:";

@@ -9,7 +9,7 @@ import androidx.preference.ListPreference;
 
 import org.greenrobot.eventbus.EventBus;
 import org.thoughtcrime.securesms.ApplicationPreferencesActivity;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.permissions.Permissions;
 import org.thoughtcrime.securesms.storage.StorageSyncHelper;

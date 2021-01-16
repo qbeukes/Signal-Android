@@ -18,7 +18,7 @@ import com.annimon.stream.Stream;
 
 import org.thoughtcrime.securesms.BlockUnblockDialog;
 import org.thoughtcrime.securesms.ExpirationDialog;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.VerifyIdentityActivity;
 import org.thoughtcrime.securesms.database.IdentityDatabase;
 import org.thoughtcrime.securesms.database.MediaDatabase;

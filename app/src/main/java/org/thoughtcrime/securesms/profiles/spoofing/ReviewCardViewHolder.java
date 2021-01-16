@@ -11,7 +11,7 @@ import androidx.annotation.PluralsRes;
 import androidx.annotation.StringRes;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.AvatarImageView;
 import org.thoughtcrime.securesms.util.SpanUtil;
 

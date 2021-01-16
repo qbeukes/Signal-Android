@@ -2,7 +2,7 @@ package org.thoughtcrime.securesms.pin;
 
 import androidx.annotation.NonNull;
 
-import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.myceli.BuildConfig;
 import org.thoughtcrime.securesms.KbsEnclave;
 import org.thoughtcrime.securesms.util.Util;
 

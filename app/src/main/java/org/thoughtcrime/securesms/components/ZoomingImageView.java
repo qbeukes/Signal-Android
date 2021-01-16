@@ -17,7 +17,7 @@ import com.davemorrissey.labs.subscaleview.decoder.DecoderFactory;
 import com.github.chrisbanes.photoview.PhotoView;
 
 import org.signal.core.util.logging.Log;
-import org.thoughtcrime.securesms.R;
+import org.thoughtcrime.securesms.myceli.R;
 import org.thoughtcrime.securesms.components.subsampling.AttachmentBitmapDecoder;
 import org.thoughtcrime.securesms.components.subsampling.AttachmentRegionDecoder;
 import org.thoughtcrime.securesms.mms.DecryptableStreamUriLoader.DecryptableUri;
