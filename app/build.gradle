@@ -108,7 +108,8 @@ android {
         project.ext.set("archivesBaseName", "MyceliApp");
 
         buildConfigField "long", "BUILD_TIMESTAMP", getLastCommitTimestamp() + "L"
-        buildConfigField "String", "SIGNAL_URL", "\"https://myceli.app:1443\""
+//        buildConfigField "String", "SIGNAL_URL", "\"https://myceli.app:1443\""
+        buildConfigField "String", "SIGNAL_URL", "\"https://10.0.2.2\""
         buildConfigField "String", "STORAGE_URL", "\"https://storage.signal.org\""
         buildConfigField "String", "SIGNAL_CDN_URL", "\"https://cdn.signal.org\""
         buildConfigField "String", "SIGNAL_CDN2_URL", "\"https://cdn2.signal.org\""
@@ -240,6 +241,8 @@ android {
             dimension 'environment'
 
             isDefault true
+
+            buildConfigField "String", "SIGNAL_URL", "\"https://myceli.app:1443\""
         }
 
         staging {
@@ -247,7 +250,7 @@ android {
 
             applicationIdSuffix ".staging"
 
-            buildConfigField "String", "SIGNAL_URL", "\"https://textsecure-service-staging.whispersystems.org\""
+            buildConfigField "String", "SIGNAL_URL", "\"https://10.0.2.2\""
             buildConfigField "String", "STORAGE_URL", "\"https://storage-staging.signal.org\""
             buildConfigField "String", "SIGNAL_CDN_URL", "\"https://cdn-staging.signal.org\""
             buildConfigField "String", "SIGNAL_CDN2_URL", "\"https://cdn2-staging.signal.org\""
