@@ -244,7 +244,7 @@ android {
             dimension 'environment'
 
             buildConfigField "String", "SIGNAL_URL", "\"https://api.myceli.app\""
-//            buildConfigField "String", "SIGNAL_CONTACT_DISCOVERY_URL", "\"https://cds.myceli.app\""
+            buildConfigField "String", "SIGNAL_CONTACT_DISCOVERY_URL", "\"https://cds.myceli.app\""
         }
 
         dev {

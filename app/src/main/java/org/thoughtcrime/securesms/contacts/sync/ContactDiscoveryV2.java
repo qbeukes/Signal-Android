@@ -29,6 +29,7 @@ import java.security.SignatureException;
 import java.security.cert.CertificateException;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -50,6 +51,13 @@ class ContactDiscoveryV2 {
                                             @NonNull Set<String> systemNumbers)
       throws IOException
   {
+    if (true) {
+      Map<String, UUID> numbers = new HashMap<>();
+      numbers.put("+2722222222", UUID.fromString("b733b199-e2aa-4f9a-a7b5-45ee9b1d91ca"));
+
+      return new DirectoryResult(numbers, new HashMap<>(), new HashSet<>());
+    }
+
     Set<String>                        allNumbers        = SetUtil.union(databaseNumbers, systemNumbers);
     FuzzyPhoneNumberHelper.InputResult inputResult       = FuzzyPhoneNumberHelper.generateInput(allNumbers, databaseNumbers);
     Set<String>                        sanitizedNumbers  = sanitizeNumbers(inputResult.getNumbers());
